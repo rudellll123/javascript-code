@@ -19,4 +19,3 @@ console.log (gameName.slice(0,2));
 console.log (gameName.trim(0,2));
 
 console.log (gameName.trimEnd());
-
