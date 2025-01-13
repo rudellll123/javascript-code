@@ -23,3 +23,4 @@ const obj1 = {1:"a",2:"b"}
 const obj2 = {2:"c",3:"d"}
 const obj3 = object.assign({},obj1,obj3)
 console.log(obj2);
+h
